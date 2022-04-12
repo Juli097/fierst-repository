@@ -1,0 +1,14 @@
+body {
+     width: 700vw;
+     margin: 10px auto;
+}
+
+h1 {
+   text-align: center;
+   color: red;
+}
+
+p {
+  color: green;
+  font-style: italic;
+}
